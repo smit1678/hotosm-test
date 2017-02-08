@@ -1,5 +1,5 @@
 ---
-title: Pixyll
+title: HOTOSM
 timezone: UTC
 collections:
   posts:
@@ -12,8 +12,8 @@ email: your_email@example.com
 author: John Otander
 description: A simple, beautiful theme for Jekyll that emphasizes content rather than
   aesthetic fluff.
-baseurl: ''
-url: http://pixyll.com
+baseurl: '/hotosm-test'
+url: "http://smit1678.github.io"
 date_format: "%b %-d, %Y"
 google_verification: 
 google_analytics: 
