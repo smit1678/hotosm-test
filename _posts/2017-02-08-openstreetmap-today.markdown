@@ -3,8 +3,6 @@ title: OpenStreetMap Today
 date: 2017-02-08 11:48:00 Z
 ---
 
-## Calculus gemitus dixit requiem terrae vetus iam
-
 Lorem markdownum esse referre, est [Coei
 cupidine](http://vivitaris.net/fulvisperdideris.html) lilia, magno, anima quas
 quasi urbem Pittheia loquarque mori? Herbis dixit potentes pomoque oculos
