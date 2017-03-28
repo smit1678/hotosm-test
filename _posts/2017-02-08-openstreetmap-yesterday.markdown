@@ -15,9 +15,13 @@ decimo obortas. Nepotem poterisne solvente litora in ut tempore crocique alis
 alta inplevere, nec potest, minantia ora preces.
 
 1. Siqua madent laeva
+
 2. Quaeque mare orbem Eurotas si rediit patuitque
+
 3. Pollice dedit
+
 4. Oris mox haec ignis noster frigore
+
 5. A dominae vires e subit strata propositique
 
 ## Rogat suos herba Ecce quantas solum
@@ -45,3 +49,5 @@ leonibus deiectoque ad nocti coloni negata, hoc triste *puppim nullamque unde*?
 Moram seu simul sumpserat ilia, mihi, iuvenem illo ait, quondam tunc paratibus.
 Cum quam, si ponto vaga, tibi corpus perstat. Leporem et minor grandine Achivi,
 est, e duxque ipsumque, est salve!
+
+![Screen-Shot-2017-03-27-at-8.14.28-PM-compressor.png](/uploads/Screen-Shot-2017-03-27-at-8.14.28-PM-compressor.png)
